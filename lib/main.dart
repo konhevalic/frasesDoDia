@@ -49,7 +49,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("_Frases do dia"),
+        title: const Text("Frases do dia"),
         backgroundColor: Colors.green,
       ),
       body: Center(
